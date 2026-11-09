@@ -1,0 +1,5 @@
+# Words that must never be published (your project, domains, accounts).
+.private-words
+node_modules/
+.DS_Store
+!tests/fixtures/**/node_modules/

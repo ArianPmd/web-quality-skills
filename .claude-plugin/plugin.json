@@ -1,0 +1,7 @@
+{
+  "name": "web-quality-skills",
+  "version": "0.2.0",
+  "description": "Build a web app from an idea, or audit an existing one: native-feel UI, UI pitfalls, security, privacy and legal checks.",
+  "license": "MIT",
+  "keywords": ["ui", "ux", "pwa", "accessibility", "rtl", "i18n", "security", "gdpr", "privacy", "audit"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "lic-fixture",
+  "dependencies": {
+    "passport": "1.0.0"
+  }
+}

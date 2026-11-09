@@ -1,0 +1,12 @@
+{
+  "name": "Acme Notes",
+  "short_name": "Acme Notes",
+  "start_url": "/app",
+  "id": "/app",
+  "icons": [
+    {
+      "src": "/i.png",
+      "purpose": "maskable"
+    }
+  ]
+}
